@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Why is a programming language an artificial language?",
+    "choice1": "designed for expressing algorithms on a computer",
+    "choice2": "designed for programming",
+    "choice3": "designed for coding and algorithm",
+    "choice4": "designed for creating application",
+    "answer": 1
+  },
+  {
+    "question": "what is the benefit of a programing language?",
+    "choice1": "Increased ability to express ideas/algorithms",
+    "choice2": "Better understanding of significance of implementation",
+    "choice3": "all of the above",
+    "choice4": "Better use of languages that are already known",
+    "answer": 3
+  },
+  {
+    "question": "All this are criteria for programming evaluation except?",
+    "choice1": "Efficiency",
+    "choice2": "Modularity",
+    "choice3": "Better",
+    "choice4": "Portability",
+    "answer": 3
+  },
+  {
+    "question": " all this are Types of programing language except?",
+    "choice1": "Low level PL",
+    "choice2": "Computing Level PL",
+    "choice3": "High Level PL",
+    "choice4": "Assembly PL",
+    "answer": 2
+  },
+  {
+    "question": " all this are List of interpreted Language except?",
+    "choice1": "APL",
+    "choice2": "Autolt",
+    "choice3": "BASIC",
+    "choice4": "BELLRING",
+    "answer": 4
+  },
+  {
+    "question": " all this are List of Compiled Language except?",
+    "choice1": "ADA",
+    "choice2": "ALGOL",
+    "choice3": "C",
+    "choice4": "CELLRENG",
+    "answer": 4
+  },
+  {
+    "question": " all this are List of procedural programming Language except?",
+    "choice1": "CLIST",
+    "choice2": "MATLAB",
+    "choice3": "CALLBELL",
+    "choice4": "COMPONENT PASCAL",
+    "answer": 3
+  },
+  {
+    "question": " all this are List of scripting programming Language except?",
+    "choice1": "APPLE SCRIPT",
+    "choice2": "MATHEMATICS",
+    "choice3": "BEAN SHELL",
+    "choice4": "PHP",
+    "answer": 2
+  },
+  {
+    "question": " How do you write 'Hello World' in an alert box?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 4
+  }
+]
